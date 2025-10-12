@@ -10,7 +10,7 @@
 
 ## <div align="center">⚡ About Me</div>
 
-const isindu = {
+## const isindu = {
   pronouns: "He/Him",
   languages: ["JavaScript", "TypeScript", "Java", "Kotlin", "Python", "SQL"],
   frameworks: ["React", "Next.js", "Spring Boot", "Express", "Django"],
