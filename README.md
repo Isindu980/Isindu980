@@ -146,17 +146,7 @@ ON projects(user_id, rating);
 
 ---
 
-## <div align="center">🚀 Featured Projects</div>
 
-<div align="center">
-
-<!-- Replace with your actual repo names -->
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Isindu980&repo=portfolio&theme=tokyonight)](https://www.isindueshan.me)
-[![Full Stack App](https://github-readme-stats.vercel.app/api/pin/?username=Isindu980&repo=fullstack-app&theme=tokyonight)](https://github.com/Isindu980/fullstack-app)
-
-</div>
-
----
 
 ## <div align="center">💡 What I'm Currently Working On</div>
 
@@ -206,7 +196,7 @@ Python       1 hr 12 mins    █▓░░░░░░░░░░░░░░░
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._isindu_._)
 
 📧 **Email:** isindu980@gmail.com  
-🌍 **Portfolio:** Coming Soon...  
+🌍 **Portfolio:  (https:www.isindueshan.me)
 📍 **Location:** Sri Lanka
 
 </div>
