@@ -10,7 +10,6 @@
 
 ## <div align="center">⚡ About Me</div>
 
-```typescript
 const isindu = {
   pronouns: "He/Him",
   languages: ["JavaScript", "TypeScript", "Java", "Kotlin", "Python", "SQL"],
@@ -29,13 +28,6 @@ React, Next.js, TypeScript, TailwindCSS	Node.js, Express, Spring Boot, Django	Re
 </div>
 <div align="center">
 🧩 Tech Stack Badges
-
-
-
-
-
-
-
 
 
 </div>
