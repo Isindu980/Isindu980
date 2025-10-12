@@ -196,7 +196,7 @@ Python       1 hr 12 mins    █▓░░░░░░░░░░░░░░░
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._isindu_._)
 
 📧 **Email:** isindu980@gmail.com  
-🌍 **Portfolio:  (https:www.isindueshan.me)
+🌍 **Portfolio:  www.isindueshan.me
 📍 **Location:** Sri Lanka
 
 </div>
